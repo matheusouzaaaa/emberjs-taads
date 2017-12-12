@@ -1,7 +1,6 @@
-# ember-quickstart
+# EMBER JS - Tópicos Avançados - Senac RS 2017/2
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Esse é um trabalho realizado para a cadeira de Tópicos Avançados da Faculdade Senac. Cadeira essa, ministrada pelo Mestre Guilherme Bertoni.
 
 ## Prerequisites
 
