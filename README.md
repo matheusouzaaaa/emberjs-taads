@@ -2,49 +2,22 @@
 
 Esse é um trabalho realizado para a cadeira de Tópicos Avançados da Faculdade Senac. Cadeira essa, ministrada pelo Mestre Guilherme Bertoni.
 
-## Prerequisites
+## Pré-Requisitos
 
-You will need the following things properly installed on your computer.
+Você precisará ter as seguintes coisas instaladas no seu computador.
 
 * [Git](https://git-scm.com/)
 * [Node.js](https://nodejs.org/) (with npm)
 * [Ember CLI](https://ember-cli.com/)
 * [Google Chrome](https://google.com/chrome/)
 
-## Installation
+## Instalação
 
-* `git clone <repository-url>` this repository
+* `git clone <repository-url>` Esse repositório, por exemplo
 * `cd ember-quickstart`
 * `npm install`
 
-## Running / Development
+## Executar
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-* Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
-
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](https://emberjs.com/)
-* [ember-cli](https://ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+* `ember serve` ou `ember s`
+* Acesse o localhost após a execução do comando acima. [http://localhost:4200](http://localhost:4200)
